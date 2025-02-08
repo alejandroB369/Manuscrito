@@ -11,20 +11,14 @@
             "id": "f86132b52761ba07",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Zol'Trak/To-do/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Zol'Trak/Listas/Repositorio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Repositorio"
             }
           }
         ]
@@ -100,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zol'Trak/To-do/Untitled Kanban.md",
+                "file": "Zol'Trak/Listas/Repositorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Untitled Kanban"
+              "title": "Enlaces entrantes de Repositorio"
             }
           },
           {
@@ -119,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zol'Trak/To-do/Untitled Kanban.md",
+                "file": "Zol'Trak/Listas/Repositorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Untitled Kanban"
+              "title": "Enlaces salientes de Repositorio"
             }
           },
           {
@@ -148,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zol'Trak/To-do/Untitled Kanban.md",
+                "file": "Zol'Trak/Listas/Repositorio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Untitled Kanban"
+              "title": "Esquema de Repositorio"
             }
           },
           {
@@ -188,17 +182,20 @@
   },
   "active": "f86132b52761ba07",
   "lastOpenFiles": [
-    "Zol'Trak/Manuscrito/prueb.md",
+    "Zol'Trak/Listas/Nombres.md",
+    "Zol'Trak/Listas/Repositorio.md",
+    "Zol'Trak/WorldBuilding/Razas/Voidbornes.md",
+    "Zol'Trak/Listas",
+    "Zol'Trak/WorldBuilding/Razas/Humanos/Celicos.md",
     "Zol'Trak/To-do/Untitled Kanban.md",
+    "Zol'Trak/Manuscrito/prueb.md",
     "Zol'Trak/WorldBuilding/Personajes/Seris.md",
     "Zol'Trak/To-do",
     "Zol'Trak/imagenes",
     "Zol'Trak/WorldBuilding/Personajes/Void hunter.md",
     "Zol'Trak/WorldBuilding/Personajes/Asterion.md",
-    "Zol'Trak/WorldBuilding/Razas/Humanos/Celicos.md",
     "Zol'Trak/WorldBuilding/Personajes/Sin nombre",
     "Zol'Trak/WorldBuilding/Razas/Humanos/Humanos.md",
-    "Zol'Trak/WorldBuilding/Razas/Voidbornes.md",
     "Zol'Trak/WorldBuilding/Razas/Humanos",
     "Zol'Trak/WorldBuilding/Personajes",
     "Zol'Trak/WorldBuilding/Razas/Voidbornes",
@@ -206,7 +203,6 @@
     "Zol'Trak/WorldBuilding/Razas",
     "Zol'Trak/WorldBuilding/Geografía/Mundo del vacío",
     "Zol'Trak/WorldBuilding/Geografía",
-    "Zol'Trak/WorldBuilding",
     "Bienvenido.md",
     "ssss.md"
   ]
