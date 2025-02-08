@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ssss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de ssss"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ssss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de ssss"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -158,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ssss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de ssss"
+              "title": "Esquema"
             }
           },
           {
@@ -195,9 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f86132b52761ba07",
+  "active": "e4ffab517ddaa37e",
   "lastOpenFiles": [
-    "Bienvenido.md",
-    "ssss.md"
+    "ssss.md",
+    "Bienvenido.md"
   ]
 }
